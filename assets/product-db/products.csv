@@ -1,0 +1,28 @@
+Id;manufacturer;name;category;subcategory;price;garantie;etat;showAsTop;cpu;cpuTakt;hdd;ram;display;programme;os;grapichCard;accessoires;connecteurs;umts;webcam;batterie;description;contact;imageBig;imageSmall
+1;Fujitsu;Lifebook S710;Laptop;Laptop;180000;6 mois;Occasion;Yes;Core i7;2,66;500 GB;4 GB;"14"" pouces";;Windows 7;;DVD Brenner - Bluetooth;;Oui;Oui;;Fujitsu Lifebook S710 - Core i7 - 4 GB Ram - 500 GB HDD - UMTS (3G/4G) integre - Webcam - DVD RW - Bluetooth - Windows 7;;assets/images/product-images/S710/1.jpg;assets/images/product-images/S710/2.jpg
+2;Fujitsu;Lifebook S751;Laptop;Laptop;150000;6 mois;Occasion;Yes;Core i5;2.53;500 GB;4 GB;"14"" pouces";;Windows 7;;DVD Brenner - Bluetooth;;Oui;non;;Fujitsu Lifebook S 751 - Core i5 - 4 GB Ram - 500 GB HDD - UMTS (3G/4G) integre  - DVD RW - Bluetooth - Windows 7;;assets/images/product-images/S710/1.jpg;assets/images/product-images/S710/1.jpg
+3;Dell; E6400;Laptop;Laptop;80000;6 mois;Occasion;yes;Core 2 Duo;2,26;250 GB;2 GB;"14""";;;;DVD RW;;OUI;Non;;;;;
+4;Dell; E4300;Laptop;Laptop;50000;6 mois;Occasion;yes;Core 2 Duo;2,27;120 GB;2 GB;"13,3""";;;;DVD RW;;OUI;Non;;;;;
+5;Lenovo;R500;Laptop;Laptop;75000;6 mois;Occasion;yes;Core 2 Duo;2,26;160 GB;4 GB;"15"" pouces";;Windows 7;;DVD RW - Censeur Empreinte;;non;non;;;;;
+6;Lenovo;R60;laptop;laptop;75000;6 mois;Occasion;Yes;Core 2 Duo ;1,66;60Go;1Go;15'';;;;DVD, CR-RW;;non;NON;;;;;
+7;Lenovo;R61;laptop;laptop;75000;6 mois;Occasion;Yes;Core 2 Duo ; 1,6;60Go;2Go;15'';;;;DVD, CR-RW;;non;NON;;;;;
+8;Fujitsu;Lifebook P8020;laptop;laptop;75000;6 mois;Occasion;Yes;Core 2 Duo ; 1,4;160Go;2Go;12,1'';;;;DVDRW, Bluetooth, Fingerprint;;OUI;OUI;;;;;
+9;Fujitsu;Lifebook P8020;laptop;laptop;75000;6 mois;Occasion;Yes;Core 2 Duo ; 1,4;160Go;4Go;12,1'';;;;DVDRW, Bluetooth, Fingerprint;;OUI;OUI;;;;;
+10;Fujitsu;Lifebook P8110;laptop;laptop;75000;6 mois;Occasion;Yes;Core 2 Duo ; 1,4;160Go;4Go;12,1'';;;;DVDRW, Fingerprint;;OUI;OUI;;;;;
+11;Fujitsu;Lifebook P770;laptop;laptop;75000;6 mois;Occasion;Yes;Core i7 ;1,07;500Go;4Go;12,1'';;;;DVDRW, Bluetooth, Fingerprint;;OUI;OUI;;;;;
+12;Fujitsu;Lifebook S7220;laptop;laptop;75000;6 mois;Occasion;Yes;Core 2 Duo; 2,67;160Go;4Go;14,1'';;;;DVDRW;;OUI;NON;;;;;
+13;Fujitsu;Lifebook S6420;laptop;laptop;75000;6 mois;Occasion;Yes;Core 2 Duo ; 2,53;160Go;4Go;13,3'';;;;DVDRW, Fingerprint;;oui;OUI;;;;;
+14;Fujitsu;ESPRIMO V5505;laptop;laptop;75000;6 mois;Occasion;Yes;Core 2 Duo; 2,16;250Go;2Go;15,4'';;;;DVDRW;;non;NON;;;;;
+15;Dell;D630;laptop;laptop;75000;6 mois;Occasion;Yes;Core 2 Duo ; 1,5;80 Go;2Go;14'';;;;DVDRW;;oui;NON;;;;;
+16;Dell;D830;laptop;laptop;75000;6 mois;Occasion;Yes; Core 2 Duo ;  2,0;80Go;2Go;15'';;;;DVDRW;;non;NON;;;;;
+17;HP;nx6320;laptop;laptop;75000;6 mois;Occasion;Yes;Core 2 Duo ; 1,8;80Go;1Go;14'';;;;DVDRW;;non;NON;;;;;
+18;HP;nX6320;laptop;laptop;75000;6 mois;Occasion;Yes;Core 2 Duo ; 1,6;60Go;1Go;14'';;;;DVDRW;;non;NON;;;;;
+19;Lenovo;R400;laptop;laptop;75000;6 mois;Occasion;Yes;Core 2 Duo ; 2,2 à 2,5;160Go;2Go;14'';;;;COMBO;;non;NON;;;;;
+20;Lenovo;R400;laptop;laptop;75000;6 mois;Occasion;Yes;Core 2 Duo ; 2,2;80Go;2Go;14'';;;;COMBO;;non;NON;;;;;
+21;Lenovo;T60;laptop;laptop;75000;6 mois;Occasion;Yes;Core 2 Duo; 1,6;60Go;1Go;14'';;;;COMBO;;non;NON;;;;;
+22;Lenovo;TX3XP;laptop;laptop;75000;6 mois;Occasion;Yes;Duo Core; 1,2;80Go;1Go;11'';;;;DVD;;non;NON;;;;;
+23;Asus;Eee PC;laptop;laptop;75000;6 mois;Occasion;Yes;Intel Atom;Intel Atom;160Go;1Go;"10""";;;;AUCUN;;non;OUI;;;;;
+24;Asus;Mini;laptop;laptop;75000;6 mois;Occasion;Yes;Intel Atom;Intel Atom;160Go;2Go;"10""";;;;AUCUN;;non;OUI;;;;;
+25;Medion;Akoya E6234;laptop;laptop;75000;6 mois;Occasion;yes;Dual Core;2,20;160Go;4Go;"15""";;;;DVD RW ;;non;OUI;;;;;
+26;Fujitsu;M9410;laptop;laptop;75000;6 mois;Occasion;yes;Core 2 Duo;2,53;160Go;4Go;"14""";;;;DVD-RW;;oui;non;;;;;
+27;Fujitsu;Lifebook T4220;laptop;laptop;75000;6 mois;Occasion;yes;Core 2 Duo ;2,6 ;160Go;4Go;"12,1"" Tactile avec Stylo";;;;DVD-RW, Fingerprint;;;non;;Seconde batterie;;;
